@@ -12,7 +12,7 @@ const Lower = () => {
         <h1>About Company</h1>
         <h2>
           ConvoConnect
-          <p>Lorem ipsum dolor sit amit.</p>
+          <p><i>Sign Up Now!!!</i></p>
         </h2>
         <p>Automate expert-evaluated asynchronous video interviews and remote live coding, and provide structured comments in as little as five minutes. Utilize our integrated platform to outsource screening on a wide scale.</p>
         <a href="#"><FaFacebook style={{fontSize:'2rem', color:'orange'}} /></a>
@@ -46,18 +46,18 @@ const Lower = () => {
       </div>
 
       <div className="posts">
-        <h1>Latest posts</h1>
-        <a href="#"><span>20<br />AUG</span>Lorem ipsum dolor sit stiae tempora</a>
-        <a href="#"><span>20<br />AUG</span>Lorem ipsum dolor sit stiae tempora</a>
-        <a href="#"><span>20<br />AUG</span>Lorem ipsum dolor sit stiae tempora</a>
-        <a href="#"><span>20<br />AUG</span>Lorem ipsum dolor sit stiae tempora</a>
-        <a href="#"><span>20<br />AUG</span>Lorem ipsum dolor sit stiae tempora</a>
+        <h1>Solutions</h1>
+        <a href="#"><span><br /></span>Startups</a>
+        <a href="#"><span><br /></span>IT staffing</a>
+        <a href="#"><span><br /></span>IT services</a>
+        <a href="#"><span><br /></span>Campuses</a>
+        <a href="#"><span><br /></span>Coding Schools</a>
       </div>
       <div className="contact">
         <h1>Contact us</h1>
         <p>123 New Line, London UK</p>
-        <p>Hello@contact-us.com</p>
-        <p>+44 00 00 1234<br />+44 00 00 1234</p>
+        <p>convoconnect@gmail.com</p>
+        <p>xxxxxxxxxx<br />+44 00 00 1234</p>
 
       </div>
 
